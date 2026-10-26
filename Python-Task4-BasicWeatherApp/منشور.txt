@@ -1,0 +1,27 @@
+🚀 Excited to share my latest project: An Advanced Weather Application built with Python! 🌤️
+
+I recently developed a fully-featured, modern weather application designed with a sleek Dark Mode GUI and responsive layout scaling.
+
+Key Features:
+
+    Real-Time & Forecast Data: Fetches live weather conditions, hourly breakdowns, and a 5-day forecast using the OpenWeatherMap API.
+
+    Smart Location Detection: Automatically detects the user's location via IP using the ipinfo.io API upon startup.
+
+    Interactive UI: Features dynamic weather icons (via Pillow/PIL), a unit toggle switch (°C / °F), and clean structured data tables.
+
+    Robust GUI Error Handling: Manages network timeouts, invalid keys, and missing inputs gracefully within the graphical interface itself.
+
+🛠️ Tech Stack:
+
+    Python
+
+    Tkinter & Pillow (PIL) for the GUI and icon rendering
+
+    OpenWeatherMap & ipinfo.io APIs
+
+    Requests
+
+Building this project was a fantastic way to sharpen my backend integration and GUI design skills. Always excited to keep building and learning! 💻✨
+
+#Python #SoftwareEngineering #Tkinter #WebDevelopment #APIs #OpenWeatherMap #Coding #DeveloperJourney
